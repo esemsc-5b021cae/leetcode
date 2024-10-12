@@ -7,7 +7,7 @@ import java.util.*;
 /**
  * 思路： 记录座位的离开时间以及空座位信息，根据落座时间进行排序，TreeSet能自动将加入的数据进行排序
  */
-public class smallestChair1942 {
+public class SmallestChair1942 {
     class Solution {
         public int smallestChair(int[][] times, int targetFriend) {
 
