@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.Queue;
 import java.util.Stack;
 
-public class minAddToMakeValid921 {
+public class MinAddToMakeValid921 {
     /**
      * parentheses match 的问题，基本思路就是想到栈，左括号进站遇到有括号出栈
      */
